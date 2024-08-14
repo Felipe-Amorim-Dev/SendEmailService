@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<EmailService>(sp => new EmailService(
+builder.Services.AddSingleton<SendEmailService>(sp => new SendEmailService(
     builder.Configuration["Smtp:Server"],
     int.Parse(builder.Configuration["Smtp:Port"]),
     builder.Configuration["Smtp:Username"],
