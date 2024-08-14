@@ -1,0 +1,12 @@
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\bin\Debug\net8.0\EmailServiceApp.Domain.deps.json
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\bin\Debug\net8.0\EmailServiceApp.Domain.dll
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\bin\Debug\net8.0\EmailServiceApp.Domain.pdb
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.AssemblyInfo.cs
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.dll
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\refint\EmailServiceApp.Domain.dll
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\EmailServiceApp.Domain.pdb
+C:\Users\Felipe Amorim\Projetos\Pessoal\DotNet\EmailServiceApp\EmailServiceApp.Domain\obj\Debug\net8.0\ref\EmailServiceApp.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dq/BEo8K444gBrGWLiH9zDUUVm5JYwSUPAjVd7JPJwE=",
+  "Source": "EmailServiceApp.services",
+  "BasePath": "_content/EmailServiceApp.services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.services\\EmailServiceApp.services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.Domain\\EmailServiceApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.Domain\\EmailServiceApp.Domain.csproj",
+        "projectName": "EmailServiceApp.Domain",
+        "projectPath": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.Domain\\EmailServiceApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Felipe Amorim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Felipe Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.7.1.1, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.services\\EmailServiceApp.services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.services\\EmailServiceApp.services.csproj",
+        "projectName": "EmailServiceApp.services",
+        "projectPath": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.services\\EmailServiceApp.services.csproj",
+        "packagesPath": "C:\\Users\\Felipe Amorim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Felipe Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.Domain\\EmailServiceApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Felipe Amorim\\Projetos\\Pessoal\\DotNet\\EmailServiceApp\\EmailServiceApp.Domain\\EmailServiceApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
